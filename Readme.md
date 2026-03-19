@@ -1,8 +1,8 @@
-📊 Applied Statistics & Exploratory Data Analysis Project
+📊** Applied Statistics & Exploratory Data Analysis Project**
 
 (Originally done in 2021 — republished to preserve and showcase foundational work)
 
-📝 Project Note
+📝** Project Note**
 
 This project was originally completed in 2021 as part of my learning in Applied Statistics and Analysis.
 
@@ -33,6 +33,7 @@ Hypothesis testing
 Data-driven business recommendations
 
 📌 Key Concepts Used
+
 🔹 1. Joint Probability
 
 Joint probability measures the likelihood of two events happening together.
